@@ -1,0 +1,28 @@
+Description                                                                         Summary Amt.
+Beginning balance as of 02/02/2022                                                      2,222.98
+Total credits                                                                           1,027.90
+Total debits                                                                           -2,237.31
+Ending balance as of 01/22/2024                                                         1,013.57
+
+
+Date        Description                                                                   Amount  Running Bal.
+02/02/2022  Beginning balance as of 02/02/2022                                                        2,222.98
+01/02/2024  BKOFAMERICA MOBILE 01/03 XXXXX81214 DEPOSIT *MOBILE NY                        327.10      2,550.08
+01/02/2024  Bank of America DES:CASHREWARD ID:BAKHITOV INDN:XXXXX0062XXXXX55XXXXX0 CO ID:XXXXX90310 PPD       42.60      2,592.68
+01/02/2024  XXXXXXXXXX4419 12/31 #XXXXX1628 WITHDRWL SAMS DELI X PRESS Brooklyn NY        -81.95      2,510.73
+01/02/2024  Zelle payment to Miles Queens Conf# h5lwzw6sv                              -1,000.00      1,510.73
+01/02/2024  XXXXXXXXXX4419 12/31 #XXXXX1628 WITHDRWL SAMS DELI X PRESS Brooklyn NY FEE       -2.50      1,508.23
+01/03/2024  Launch Servicing DES:LOAN PAYMT ID:XXXXX3000 INDN:DMITRII BAKHITOV CO ID:XXXXX31319 WEB     -197.17      1,311.06
+01/05/2024  LAUNCH SERVICING, LLC 01/02 PURCHASE XXX-XX42629 SD                          -209.96      1,101.10
+01/08/2024  AMERICAN EXPRESS DES:ACH PMT ID:M8012 INDN:DMITRII BAKHITOV CO ID:XXXXX33497 WEB      -40.00      1,061.10
+01/09/2024  WIRE TYPE:INTL OUT DATE:240109 TIME:0442 ET TRN:XXXXXXXXXX153514 SERVICE REF:207982 BNF:BULATOV FUAT ID:KZXXXXX0006A0474 BNF BK:EURASI AN BANK ID:KZ948 PMT DET:XXXXX3454 POP Family Supp ort      -65.00        996.10
+01/09/2024  Wire Transfer Fee                                                             -45.00        951.10
+01/10/2024  GOOGLE *YouTubePremium 01/09 PURCHASE g.co/helppay# CA                        -13.99        937.11
+01/10/2024  CAPITAL ONE DES:ONLINE PMT ID:3WQYTOUMNIRURE5 INDN:DMITRII BAKHITOV CO ID:XXXXX44391 WEB      -25.00        912.11
+01/11/2024  BKOFAMERICA MOBILE 01/11 XXXXX58562 DEPOSIT *MOBILE NY                        329.10      1,241.21
+01/11/2024  AMAZON CORP DES:SYF PAYMNT ID:XXXXXXXXXX42699 INDN:BAKHITOVDMITRII CO ID:XXXXX72103 WEB      -22.74      1,218.47
+01/16/2024  Online Banking payment to CRD 3353 Confirmation# XXXXX18337                  -100.00      1,118.47
+01/17/2024  AMERICAN EXPRESS DES:ACH PMT ID:M8446 INDN:DMITRII BAKHITOV CO ID:XXXXX33497 WEB     -400.00        718.47
+01/22/2024  BKOFAMERICA MOBILE 01/22 XXXXX45027 DEPOSIT *MOBILE NY                        329.10      1,047.57
+01/22/2024  L613548 01/21 #XXXXX5506 WITHDRWL C- TOWN SUPE-6135 RIDGEWOOD NY              -31.50      1,016.07
+01/22/2024  L613548 01/21 #XXXXX5506 WITHDRWL C- TOWN SUPE-6135 RIDGEWOOD NY FEE           -2.50      1,013.57

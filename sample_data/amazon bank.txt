@@ -1,0 +1,893 @@
+Synchrony
+ACCOUNT MANAGER
+
+
+Español
+
+
+DMITRII
+
+
+
+Prime Store Card
+
+
+ Account ending in 6996
+$729.22
+Current Balance
+
+$561.00
+Available to spend
+
+$29.00
+Total Minimum Payment
+
+Jul 13
+Payment Due Date
+
+Make a Payment
+Activity
+Promotions
+Account Services
+Activity
+Manage Disputes
+Pending
+Type	Date	Description	Status	Amount	
+Type
+Purchase
+DateJul 2	
+Description
+AMAZON DIGITAL SEATTLE WA
+
+Status
+Pending
+Amount
+$9.99
+
+Posted
+Type	Date	Description	Status	Amount	
+Type
+Purchase
+DateJun 22	
+Description
+AMAZON RETAIL SEATTLE WA
+
+FURminator Medium Dog Undercoa
+
+Status
+Posted
+Amount
+$36.53
+
+Type
+Adjustment
+DateJun 20	
+Description
+YOUR STORE CARD STATEMENT CREDIT
+
+Status
+Posted
+Amount
+-$40.75
+
+Type
+Purchase
+DateJun 19	
+Description
+AMAZON RETAIL SEATTLE WA
+
+Kasa Indoor Pan/Tilt Smart Sec
+
+Status
+Posted
+Amount
+$30.47
+
+Type
+Purchase
+DateJun 18	
+Description
+AMAZON MARKETPLACE SEATTLE WA
+
+TUTOTAK C Shaped End Table, Sm
+
+Status
+Posted
+Amount
+$25.47
+
+Type
+Purchase
+DateJun 14	
+Description
+AMAZON PRIME CONS SEATTLE WA
+
+Status
+Posted
+Amount
+$16.32
+
+Type
+Purchase
+DateJun 13	
+Description
+AMAZON RETAIL SEATTLE WA
+
+Dexas MudBuster Portable Dog P
+
+Status
+Posted
+Amount
+$27.04
+
+Type
+Purchase
+DateJun 8	
+Description
+AMAZON DIGITAL SEATTLE WA
+
+Status
+Posted
+Amount
+$9.99
+
+Type
+Purchase
+DateJun 2	
+Description
+AMAZON DIGITAL SEATTLE WA
+
+Status
+Posted
+Amount
+$9.99
+
+Type
+Purchase
+DateJun 1	
+Description
+AMAZON RETAIL SEATTLE WA
+
+COMHOMA Big and Tall Office Ch
+
+Status
+Posted
+Amount
+$195.96
+
+Type
+Purchase
+DateJun 1	
+Description
+AMAZON RETAIL SEATTLE WA
+
+Apple Watch Series 10 ÝGPS 46m
+
+Status
+Posted
+Amount
+$358.20
+
+Type
+Purchase
+DateJun 1	
+Description
+AMAZON RETAIL SEATTLE WA
+
+adidas mens Swift Run Core Bla
+
+Status
+Posted
+Amount
+$60.00
+
+Type
+Payment
+DateMay 30	
+Description
+PAYMENT
+
+Status
+Posted
+Amount
+-$843.44
+
+Type
+Purchase
+DateMay 22	
+Description
+AMAZON MARKETPLACE SEATTLE WA
+
+Wesfital Pull Up Bar Dip Bar P
+
+Status
+Posted
+Amount
+$81.65
+
+Type
+Adjustment
+DateMay 21	
+Description
+YOUR STORE CARD STATEMENT CREDIT
+
+Status
+Posted
+Amount
+-$40.10
+
+Type
+Purchase
+DateMay 16	
+Description
+AMAZON MARKETPLACE SEATTLE WA
+
+Tonmom Laptop Stand for Desk , WALI Laptop Tray Desk Mount fo
+
+Status
+Posted
+Amount
+$39.92
+
+Type
+Purchase
+DateMay 14	
+Description
+AMAZON PRIME CONS SEATTLE WA
+
+Status
+Posted
+Amount
+$16.32
+
+Type
+Payment
+DateMay 13	
+Description
+AUTOMATIC PAYMENT - THANK YOU
+
+Status
+Posted
+Amount
+-$66.70
+
+Type
+Purchase
+DateMay 12	
+Description
+AMAZON MARKETPLACE SEATTLE WA
+
+COMAX Folding Sofa Bed Queen , TCL 43-Inch Q65 QLED 4K UHD Sm, Sibba 2 Pairs Breathable Shoe
+
+Status
+Posted
+Amount
+$508.10
+
+Type
+Purchase
+DateMay 12	
+Description
+AMAZON MARKETPLACE SEATTLE WA
+
+KEENSTAR Espresso Coffee Machi
+
+Status
+Posted
+Amount
+$119.75
+
+Type
+Purchase
+DateMay 10	
+Description
+AMAZON MARKETPLACE SEATTLE WA
+
+Smilelife Cat Mom Gifts Gothic
+
+Status
+Posted
+Amount
+$9.78
+
+Type
+Purchase
+DateMay 8	
+Description
+AMAZON DIGITAL SEATTLE WA
+
+Status
+Posted
+Amount
+$9.99
+
+Type
+Purchase
+DateMay 5	
+Description
+AMAZON MARKETPLACE SEATTLE WA
+
+Under Desk Cable Management Tr, Joydeco Cordless Roller Shades, Onlyone Water Dental Flosser
+
+Status
+Posted
+Amount
+$88.04
+
+Type
+Purchase
+DateMay 2	
+Description
+AMAZON DIGITAL SEATTLE WA
+
+Status
+Posted
+Amount
+$9.99
+
+Type
+Adjustment
+DateApr 20	
+Description
+YOUR STORE CARD STATEMENT CREDIT
+
+Status
+Posted
+Amount
+-$4.36
+
+Type
+Purchase
+DateApr 17	
+Description
+AMAZON MARKETPLACE SEATTLE WA
+
+Bonsaii 10-Sheet Cross Cut Pap
+
+Status
+Posted
+Amount
+$50.89
+
+Type
+Purchase
+DateApr 14	
+Description
+AMAZON PRIME CONS SEATTLE WA
+
+Status
+Posted
+Amount
+$16.32
+
+Type
+Purchase
+DateApr 8	
+Description
+AMAZON DIGITAL SEATTLE WA
+
+Status
+Posted
+Amount
+$9.99
+
+Type
+Purchase
+DateApr 2	
+Description
+AMAZON DIGITAL SEATTLE WA
+
+Status
+Posted
+Amount
+$9.99
+
+Type
+Adjustment
+DateMar 21	
+Description
+YOUR STORE CARD STATEMENT CREDIT
+
+Status
+Posted
+Amount
+-$16.13
+
+Type
+Payment
+DateMar 15	
+Description
+PAYMENT
+
+Status
+Posted
+Amount
+-$322.43
+
+Type
+Purchase
+DateMar 14	
+Description
+AMAZON PRIME CONS SEATTLE WA
+
+Status
+Posted
+Amount
+$16.32
+
+Type
+Payment
+DateMar 13	
+Description
+AUTOMATIC PAYMENT - THANK YOU
+
+Status
+Posted
+Amount
+-$219.33
+
+Type
+Purchase
+DateMar 12	
+Description
+AMAZON MARKETPLACE SEATTLE WA
+
+Large Sunflowers Artificial Fl
+
+Status
+Posted
+Amount
+$20.68
+
+Type
+Purchase
+DateMar 10	
+Description
+AMAZON RETAIL SEATTLE WA
+
+Nicorette 4 mg Mini Nicotine L
+
+Status
+Posted
+Amount
+$25.98
+
+Type
+Purchase
+DateMar 8	
+Description
+AMAZON DIGITAL SEATTLE WA
+
+Status
+Posted
+Amount
+$9.99
+
+Type
+Purchase
+DateMar 6	
+Description
+AMAZON MARKETPLACE SEATTLE WA
+
+Cable Matters 20Gbps USB4 USB
+
+Status
+Posted
+Amount
+$65.31
+
+Type
+Purchase
+DateMar 2	
+Description
+AMAZON DIGITAL SEATTLE WA
+
+Status
+Posted
+Amount
+$9.99
+
+Type
+Purchase
+DateFeb 27	
+Description
+AMAZON MARKETPLACE SEATTLE WA
+
+Capshi 8K DisplayPort Cable 1.
+
+Status
+Posted
+Amount
+$9.79
+
+Type
+Purchase
+DateFeb 25	
+Description
+AMAZON RETAIL SEATTLE WA
+
+SMUG Standing Desk, Adjustable
+
+Status
+Posted
+Amount
+$130.63
+
+Type
+Purchase
+DateFeb 23	
+Description
+AMAZON MARKETPLACE SEATTLE WA
+
+TONOR USB Microphone for PC, C
+
+Status
+Posted
+Amount
+$33.74
+
+Type
+Adjustment
+DateFeb 18	
+Description
+YOUR STORE CARD STATEMENT CREDIT
+
+Status
+Posted
+Amount
+-$1.84
+
+Type
+Purchase
+DateFeb 17	
+Description
+AMAZON RETAIL SEATTLE WA
+
+Sony WH-CH520 Wireless Headpho
+
+Status
+Posted
+Amount
+$18.45
+
+Type
+Purchase
+DateFeb 14	
+Description
+AMAZON PRIME CONS SEATTLE WA
+
+Status
+Posted
+Amount
+$16.32
+
+Type
+Payment
+DateFeb 13	
+Description
+PAYMENT
+
+Status
+Posted
+Amount
+-$521.83
+
+Type
+Purchase
+DateFeb 8	
+Description
+AMAZON DIGITAL SEATTLE WA
+
+Status
+Posted
+Amount
+$9.99
+
+Type
+Refund
+DateFeb 4	
+Description
+AMAZON MARKETPLACE SEATTLE WA
+
+Status
+Posted
+Amount
+-$239.51
+
+Type
+Purchase
+DateFeb 2	
+Description
+AMAZON MARKETPLACE SEATTLE WA
+
+MarsKit Raspberry Pi 5 Ultimat
+
+Status
+Posted
+Amount
+$174.19
+
+Type
+Purchase
+DateFeb 2	
+Description
+AMAZON MARKETPLACE SEATTLE WA
+
+Professional Robot Tank Chassi
+
+Status
+Posted
+Amount
+$22.85
+
+Type
+Purchase
+DateFeb 2	
+Description
+AMAZON DIGITAL SEATTLE WA
+
+Status
+Posted
+Amount
+$9.99
+
+Type
+Purchase
+DateFeb 1	
+Description
+AMAZON RETAIL SEATTLE WA
+
+GUNNAR - Premium Gaming and Co
+
+Status
+Posted
+Amount
+$53.35
+
+Type
+Purchase
+DateJan 29	
+Description
+AMAZON MARKETPLACE SEATTLE WA
+
+Arducam IMX477 Pi HQ Camera fo
+
+Status
+Posted
+Amount
+$64.23
+
+Type
+Purchase
+DateJan 29	
+Description
+AMAZON MARKETPLACE SEATTLE WA
+
+SZDoit Professional Smart Robo
+
+Status
+Posted
+Amount
+$40.47
+
+Type
+Purchase
+DateJan 29	
+Description
+AMAZON MARKETPLACE SEATTLE WA
+
+AllGIFT Ultrasonic Ranging Sen, Adafruit DC & Stepper Motor HA, USB Microphone for Laptop and, Arducam for Raspberry Pi HQ Ca
+
+Status
+Posted
+Amount
+$119.61
+
+Type
+Purchase
+DateJan 28	
+Description
+AMAZON MARKETPLACE SEATTLE WA
+
+iRasptek Starter Kit for Raspb
+
+Status
+Posted
+Amount
+$239.51
+
+Type
+Purchase
+DateJan 24	
+Description
+AMAZON RETAIL SEATTLE WA
+
+Tulpamancer: Edge of Chaos
+
+Status
+Posted
+Amount
+$13.01
+
+Type
+Purchase
+DateJan 24	
+Description
+AMAZON RETAIL SEATTLE WA
+
+Bloatation Nation: Can DOGE Sa
+
+Status
+Posted
+Amount
+$14.14
+
+Type
+Adjustment
+DateJan 21	
+Description
+YOUR STORE CARD STATEMENT CREDIT
+
+Status
+Posted
+Amount
+-$9.81
+
+Type
+Purchase
+DateJan 20	
+Description
+AMAZON MARKETPLACE SEATTLE WA
+
+Redragon K668 RGB Gaming Keybo
+
+Status
+Posted
+Amount
+$43.54
+
+Type
+Purchase
+DateJan 19	
+Description
+AMAZON RETAIL SEATTLE WA
+
+Compressed Canned Air Duster f
+
+Status
+Posted
+Amount
+$14.69
+
+Type
+Purchase
+DateJan 18	
+Description
+AMAZON MARKETPLACE SEATTLE WA
+
+Rossetta Star Projector, Galax, ZeroSweat Underarm Sweat Pads, Capshi 8K 4K DisplayPort Cable
+
+Status
+Posted
+Amount
+$69.63
+
+Type
+Purchase
+DateJan 14	
+Description
+AMAZON PRIME CONS SEATTLE WA
+
+Status
+Posted
+Amount
+$16.32
+
+Type
+Payment
+DateJan 13	
+Description
+AUTOMATIC PAYMENT - THANK YOU
+
+Status
+Posted
+Amount
+-$62.53
+
+Type
+Purchase
+DateJan 2	
+Description
+AMAZON RETAIL SEATTLE WA
+
+The Craft of Research, Fifth E
+
+Status
+Posted
+Amount
+$15.08
+
+Type
+Purchase
+DateDec 27	
+Description
+AMAZON MARKETPLACE SEATTLE WA
+
+Stylus Pens for Touchscreen,2
+
+Status
+Posted
+Amount
+$15.23
+
+Type
+Purchase
+DateDec 27	
+Description
+AMAZON MARKETPLACE SEATTLE WA
+
+Carpe Underarm Antiperspirant
+
+Status
+Posted
+Amount
+$21.72
+
+Type
+Adjustment
+DateDec 20	
+Description
+YOUR STORE CARD STATEMENT CREDIT
+
+Status
+Posted
+Amount
+-$3.30
+
+Type
+Purchase
+DateDec 14	
+Description
+AMAZON PRIME CONS SEATTLE WA
+
+Status
+Posted
+Amount
+$16.32
+
+Type
+Payment
+DateDec 13	
+Description
+AUTOMATIC PAYMENT - THANK YOU
+
+Status
+Posted
+Amount
+-$28.60
+
+Type
+Purchase
+DateDec 6	
+Description
+AMAZON MARKETPLACE SEATTLE WA
+
+Fosmon Mini Bluetooth Keyboard
+
+Status
+Posted
+Amount
+$39.18
+
+Type
+Purchase
+DateNov 27	
+Description
+AMAZON RETAIL SEATTLE WA
+
+Amazon Basics DisplayPort (Sou
+
+Status
+Posted
+Amount
+$10.33
